@@ -6,7 +6,11 @@
 
 ## Installation 
 AU PRÉALABLE AVOIR PYTHON 3.11.9 AJOUTER AU PATH via google
-Pour installer les module nécessaire il suffit juste de lancer le fichier <setup.bat> et pour le premier lancement ensuite les autres fois vous devez juste lancer le fichier <start.bat> et voila vous pouvez désormais utiliser notre tools a votre guise 
+Faites Download with ZIP
+Une fois installer sur votre bureau faites clique droit nouveau puis nouveau dossier
+ouvrez le
+copier tout les fichier du .zip dans ce nouveau fichier
+Puis pour installer les module nécessaire il suffit juste de lancer le fichier <setup.bat> et pour le premier lancement ensuite les autres fois vous devez juste lancer le fichier <start.bat> et voila vous pouvez désormais utiliser notre tools a votre guise 
 
 
 ## Support
