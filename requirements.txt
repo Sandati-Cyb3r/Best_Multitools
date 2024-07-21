@@ -1,8 +1,10 @@
 emailrep
-requets
+requests
 itertools
 phonenumbers
 colorama
 discord.py==1.7.3
 python-obfuscator
 holehe
+config
+util
