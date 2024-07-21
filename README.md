@@ -4,7 +4,7 @@
  Nouveaux Multi tools crée en 2024 
 
 
-## Instalation 
+## Installation 
 
 pour installer les module nécessaire il suffit juste de lancer le fichier <setup.bat> et pour le premier lancement ensuite les autres fois vous devez juste lancer le fichier <start.bat> et voila vous pouvez désormais utiliser notre tools a votre guise 
 
