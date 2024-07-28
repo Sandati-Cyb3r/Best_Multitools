@@ -1,3 +1,5 @@
+from Config.Config import *
+from Config.Util import *
 import os
 import subprocess
 from colorama import init, Fore, Style
